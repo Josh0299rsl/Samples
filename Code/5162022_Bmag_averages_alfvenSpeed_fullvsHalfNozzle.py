@@ -126,16 +126,3 @@ ax2.set_ylabel('Counts')
 ax1.legend(loc='best', frameon=False)
 ax2.legend(loc='best', frameon=False)
 #plt.savefig('C:\\Users\\Josh0\\Documents\\1. Josh Documents\\Graduate School - Bryn Mawr College\\Plasma Lab (BMX) Research\\Analysis\\Plots\\2232022_3172022\\MagStructures_BulkVelocity\\AlfvenSpeedStudies\\Pos1921HalfNozzle_alfvenHistogram.png', dpi=300)
-
-
-
-
-
-
-
-
-
-
-
-
-
